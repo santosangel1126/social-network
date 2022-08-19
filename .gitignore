@@ -1,2 +1,3 @@
-node_modules
-package-lock.js
+node_modules/
+.git
+.env
